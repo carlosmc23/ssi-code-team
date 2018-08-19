@@ -1,0 +1,23 @@
+version: '3'
+services:
+  mssql:
+    image: code-team-database:1.0
+    build: ./ssi-database
+    ports:
+      - 1433:1433
+    environment:
+      SA_PASSWORD: "P@55w0rd"
+      ACCEPT_EULA: "Y"
+    volumes:
+      - /var/opt/mssql 
+  backend:
+    image: code-team-backend:1.0
+    build: ./ssi-backend
+    ports:
+      - 8080:8080
+    restart: on-failure
+  frontend:
+    image: code-team-frontend:1.0
+    build: ./ssi-frontend
+    ports:
+      - 4200:4200
