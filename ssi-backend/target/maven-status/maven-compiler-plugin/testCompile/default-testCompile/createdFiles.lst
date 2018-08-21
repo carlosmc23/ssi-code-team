@@ -1,0 +1,7 @@
+com/dh/spring5webapp/services/CategoryServiceImplTest.class
+com/dh/spring5webapp/Spring5webappApplicationTests.class
+com/dh/spring5webapp/controller/IndexControllerTest.class
+com/dh/spring5webapp/service/CategoryRepositoryIT.class
+com/dh/spring5webapp/model/CategoryTest.class
+com/dh/spring5webapp/controller/CategoryControllerMVCTest.class
+com/dh/spring5webapp/controller/CategoryControllerTest.class

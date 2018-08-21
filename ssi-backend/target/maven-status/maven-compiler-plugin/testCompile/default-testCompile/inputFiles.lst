@@ -1,0 +1,7 @@
+/Users/carlos/Desktop/code-team/backend/src/test/java/com/dh/spring5webapp/Spring5webappApplicationTests.java
+/Users/carlos/Desktop/code-team/backend/src/test/java/com/dh/spring5webapp/model/CategoryTest.java
+/Users/carlos/Desktop/code-team/backend/src/test/java/com/dh/spring5webapp/service/CategoryRepositoryIT.java
+/Users/carlos/Desktop/code-team/backend/src/test/java/com/dh/spring5webapp/controller/IndexControllerTest.java
+/Users/carlos/Desktop/code-team/backend/src/test/java/com/dh/spring5webapp/controller/CategoryControllerTest.java
+/Users/carlos/Desktop/code-team/backend/src/test/java/com/dh/spring5webapp/controller/CategoryControllerMVCTest.java
+/Users/carlos/Desktop/code-team/backend/src/test/java/com/dh/spring5webapp/services/CategoryServiceImplTest.java
