@@ -21,3 +21,7 @@ services:
     build: ./ssi-frontend
     ports:
       - 4200:4200
+networks:
+  default:
+    external:
+      name: automation
